@@ -1,0 +1,97 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Progetto2_data" version="1.3.0" audacityversion="2.3.3" sel0="0.0000000000" sel1="0.0000000000" vpos="128" h="2.2167943857" zoom="1019.4901315789" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="ARTIST" value="Moscatelli"/>
+		<tag name="COMMENTS" value="Mannaggia  a te"/>
+		<tag name="TITLE" value="Completo"/>
+		<tag name="major_brand" value="dash"/>
+		<tag name="Software" value="Lavf57.83.100"/>
+		<tag name="YEAR" value="2019"/>
+		<tag name="ALBUM" value="Pong"/>
+		<tag name="TRACKNUMBER" value="1"/>
+		<tag name="GENRE" value="Star Wars"/>
+		<tag name="minor_version" value="0"/>
+		<tag name="compatible_brands" value="iso6mp41"/>
+	</tags>
+	<wavetrack name="You’re all clear kid- now let’s blow this thing and go home [Mpgun.com]" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.96910695" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="112295">
+				<waveblock start="0">
+					<simpleblockfile filename="e080826a.au" len="112295" min="-0.592466" max="0.616418" rms="0.114868"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="You’re all clear kid- now let’s blow this thing and go home [Mpgun.com]" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.96910695" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="112295">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808fb9.au" len="112295" min="-0.592466" max="0.616418" rms="0.114868"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Yahooooooooo" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="43776">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808ae4.au" len="43776" min="-0.867813" max="0.86536" rms="0.188201"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Yahooooooooo" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="43776">
+				<waveblock start="0">
+					<simpleblockfile filename="e080835f.au" len="43776" min="-0.866871" max="0.816792" rms="0.191997"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="You’re all clear kid- now let’s blow this thing and go home [Mpgun.com]" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.96910695" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="112295">
+				<waveblock start="0">
+					<simpleblockfile filename="e08087f9.au" len="112295" min="-0.592466" max="0.616418" rms="0.114868"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="You’re all clear kid- now let’s blow this thing and go home [Mpgun.com]" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.96910695" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="112295">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808343.au" len="112295" min="-0.592466" max="0.616418" rms="0.114868"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Yahooooooooo" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="43776">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808ae4.au" len="43776" min="-0.867813" max="0.86536" rms="0.188201"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Yahooooooooo" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="43776">
+				<waveblock start="0">
+					<simpleblockfile filename="e080835f.au" len="43776" min="-0.866871" max="0.816792" rms="0.191997"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'ArcadeClassic';
+    src: url("ArcadeClassic.ttf");
+}
+
+body {
+    background-color: purple;
+    background-image: none;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+canvas {
+    position: relative;
+    width: 100%;
+    max-width: 900px;
+    margin-top: 5%;
+    background-color: black;
+    border-radius: 10px;
+    z-index: 50;
+}
